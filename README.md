@@ -1,4 +1,4 @@
 # CS310 C++
 ## Contributors 
-...*Dr. Robert Flowers
-...*Kristoffer Carlino
+- Instructor: Dr. Robert Flowers
+- Kristoffer Carlino
